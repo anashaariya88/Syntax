@@ -230,7 +230,7 @@ for (let i = 0; i < users.length; i++) {
 
                             {level >= 3
                                 ? "🌎"
-                                : "🌍"}
+                                : ""}
 
                         </div>
 
